@@ -26,10 +26,13 @@ Project version 8 (GTEx v8). Pre trained BSLMM was used with the default paramet
 
 
 References:
+
 Quan Long et al. JAWAMix5: an out-of-core HDF5-based java implementation of wholegenome
 association studies using mixed models. Bioinformatics, 29(9):1220–1222, May 2013.
+
 Jingni He et al. A statistical method for image-mediated association studies discovers genes
 and pathways associated with four brain disorders. The American Journal of Human Genetics,
 111(1):48–69, January 2024.
+
 Qing Li et al. An expression-directed linear mixed model discovering low-effect genetic variants.
 GENETICS, 226(4):iyae018, April 2024.
