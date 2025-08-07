@@ -1,7 +1,7 @@
 library(dplyr)
 library(readxl)
 
-gene_ids_path= "BPD/cS2G_8_img_geneIDs.txt" ## Gene mapped file- This can be get from CS2G gene mapping file. 
+gene_ids_path= "BPD/cS2G_8_img_geneIDs.txt" ## Gene mapped file
 disgen_path="BPD_C0005586_disease_gda_summary.xlsx" # This is downloadable from Disgenet website
 
 
